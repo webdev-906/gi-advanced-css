@@ -1,0 +1,22 @@
+table {
+  margin: 45px auto;
+  width: 800px;
+  height: 450px;
+  border: solid 1px black;
+    /* makes the cells close in or come together; separate makes
+    individual cells which is the default */
+  border-collapse: collapse;
+}
+
+.red_line {
+background-color: #bf0b30;
+}
+
+.stars {
+  position: absolute;
+  top: 45px;
+  left: 320px;
+  width: 400px;
+  height: 308px;
+  object-fit: cover;
+}

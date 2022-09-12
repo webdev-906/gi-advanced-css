@@ -1,0 +1,17 @@
+table {
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.black {
+  width:100px;
+  height:100px;
+  background-color: black;
+}
+
+.white {
+  width:100px;
+  height:100px;
+  background-color: white;
+}
+
